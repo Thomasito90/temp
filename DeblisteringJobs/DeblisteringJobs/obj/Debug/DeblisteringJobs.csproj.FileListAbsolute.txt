@@ -1,0 +1,11 @@
+C:\Users\ThomasMacheychuk\source\repos\DeblisteringJobs\DeblisteringJobs\bin\Debug\DeblisteringJobs.exe.config
+C:\Users\ThomasMacheychuk\source\repos\DeblisteringJobs\DeblisteringJobs\bin\Debug\DeblisteringJobs.exe
+C:\Users\ThomasMacheychuk\source\repos\DeblisteringJobs\DeblisteringJobs\bin\Debug\DeblisteringJobs.pdb
+C:\Users\ThomasMacheychuk\source\repos\DeblisteringJobs\DeblisteringJobs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ThomasMacheychuk\source\repos\DeblisteringJobs\DeblisteringJobs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ThomasMacheychuk\source\repos\DeblisteringJobs\DeblisteringJobs\obj\Debug\DeblisteringJobs.csproj.AssemblyReference.cache
+C:\Users\ThomasMacheychuk\source\repos\DeblisteringJobs\DeblisteringJobs\obj\Debug\DeblisteringJobs.csproj.SuggestedBindingRedirects.cache
+C:\Users\ThomasMacheychuk\source\repos\DeblisteringJobs\DeblisteringJobs\obj\Debug\DeblisteringJobs.csproj.CoreCompileInputs.cache
+C:\Users\ThomasMacheychuk\source\repos\DeblisteringJobs\DeblisteringJobs\obj\Debug\DeblisteringJobs.csproj.CopyComplete
+C:\Users\ThomasMacheychuk\source\repos\DeblisteringJobs\DeblisteringJobs\obj\Debug\DeblisteringJobs.exe
+C:\Users\ThomasMacheychuk\source\repos\DeblisteringJobs\DeblisteringJobs\obj\Debug\DeblisteringJobs.pdb

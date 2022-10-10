@@ -1,0 +1,278 @@
+MedicineID, Drug name, Pills in pots, Pills in canisters, Total pills, 1 day usage, 56 days usage, Quantity to deblister, Has canister?, Dispensing counter, Dispensing counter 0-1 days, Dispensing counter 1-7 days, Dispensing counter 7-14 days, Dispensing counter 14-28 days, Dispensing counter 28-56 days
+31138011000001104,Entresto 97mg/103mg tablets (Novartis Pharmaceuticals UK Ltd),0,0,0,45,2520,1260,False,35,0,4,5,9,16
+8171111000001104,Keppra 750mg tablets (UCB Pharma Ltd),0,0,0,41,2296,1148,False,26,0,1,3,4,17
+189511000001109,Salazopyrin 500mg tablets (Pfizer Ltd),0,0,0,29.35714,1644,822,False,12,0,0,1,5,6
+321311000001100,Hypovase 500microgram tablets (Pfizer Ltd),0,0,0,25.71428,1440,720,False,7,0,0,1,2,4
+9304111000001104,Zonegran 100mg capsules (Eisai Ltd),0,0,0,21,1176,588,False,15,0,0,3,2,9
+31136811000001109,Entresto 24mg/26mg tablets (Novartis Pharmaceuticals UK Ltd),0,0,0,20.25,1134,567,False,19,0,1,5,4,8
+31136411000001107,Entresto 49mg/51mg tablets (Novartis Pharmaceuticals UK Ltd),0,0,0,19,1064,532,False,17,0,1,1,6,9
+35102811000001102,Aripiprazole 10mg tablets (Accord Healthcare Ltd),0,0,0,17.25,966,483,True,28,0,0,0,0,18
+35305711000001105,Ivabradine 2.5mg tablets (Aspire Pharma Ltd),0,0,0,15.5,868,434,False,12,0,2,1,3,5
+333011000001100,Motens 4mg tablets (GlaxoSmithKline UK Ltd),0,0,0,13.75,770,385,False,21,0,2,1,5,13
+14194911000001109,Vimpat 50mg tablets (UCB Pharma Ltd),0,0,0,12.5,700,350,False,11,0,0,1,2,7
+18164911000001108,Raporsin XL 4mg tablets (Accord Healthcare Ltd),0,0,0,11.5,644,322,False,10,0,0,1,3,6
+11552111000001108,Omeprazole 20mg gastro-resistant tablets (Dexcel-Pharma Ltd),0,0,0,10.5,588,294,False,11,0,1,3,1,6
+30175711000001100,Synjardy 12.5mg/1000mg tablets (Boehringer Ingelheim Ltd),0,0,0,10,560,280,False,10,0,0,2,4,4
+35997611000001103,Doxazosin 8mg tablets (Ennogen Pharma Ltd),0,0,0,9.5,532,266,False,8,0,1,0,4,3
+576711000001106,Edronax 4mg tablets (Pfizer Ltd),0,0,0,8.785714,492,246,False,7,0,1,0,2,4
+477511000001109,Seroxat 20mg tablets (GlaxoSmithKline UK Ltd),0,0,0,8.714286,488,244,False,11,0,0,0,0,9
+14237311000001106,Xarelto 10mg tablets (Bayer Plc),0,0,0,8.607142,482,241,False,14,0,0,2,3,7
+28689211000001103,Amisulpride 200mg tablets (Rivopharm (UK) Ltd),0,0,0,8.214286,460,230,True,7,0,0,0,2,5
+380011000001100,Prednisolone 2.5mg gastro-resistant tablets (Accord Healthcare Ltd),0,0,0,7.5,420,210,False,13,0,0,2,3,7
+35135611000001104,Aripiprazole 15mg tablets (Milpharm Ltd),0,0,0,7,392,196,False,12,0,0,0,0,10
+19592711000001106,Olanzapine 20mg tablets (Dr Reddy's Laboratories (UK) Ltd),0,0,0,7,392,196,False,14,0,0,2,2,10
+3381511000001105,Coracten XL 60mg capsules (UCB Pharma Ltd),0,0,0,6.5,364,182,False,10,0,0,0,5,5
+11553711000001101,Enalapril 2.5mg tablets (Dexcel-Pharma Ltd),0,0,0,6.5,364,182,False,11,0,0,2,2,7
+21201111000001103,Phenytoin sodium 300mg capsules (Flynn Pharma Ltd),0,0,0,6.5,364,182,False,11,0,1,0,4,6
+14977211000001100,Maxitram SR 100mg capsules (Chiesi Ltd),0,0,0,6.428571,360,180,False,6,0,0,1,0,4
+21180211000001102,Modafinil 200mg tablets (Milpharm Ltd),0,0,0,6.428571,360,180,False,4,0,1,1,0,1
+15627511000001106,Clonazepam 2mg tablets (Teva UK Ltd),0,0,0,6.321429,354,177,False,14,0,0,2,3,8
+14976811000001101,Maxitram SR 200mg capsules (Chiesi Ltd),0,0,0,6.142857,344,172,False,6,0,1,0,0,5
+21208511000001102,Jentadueto 2.5mg/1000mg tablets (Boehringer Ingelheim Ltd),0,0,0,6,336,168,False,4,0,1,1,0,1
+27160311000001106,Xarelto 2.5mg tablets (Bayer Plc),0,0,0,6,336,168,False,5,0,0,1,1,3
+380111000001104,Nitrazepam 5mg tablets (Accord Healthcare Ltd),0,0,0,5.75,322,161,False,7,0,0,1,1,4
+20356411000001105,Sondate XL 300mg tablets (Teva UK Ltd),0,0,0,5.285714,296,148,False,7,0,0,3,0,3
+14977411000001101,Maxitram SR 50mg capsules (Chiesi Ltd),0,0,0,5.071429,284,142,False,4,0,0,0,2,2
+30247811000001102,Brintellix 20mg tablets (Lundbeck Ltd),0,0,0,5,280,140,False,8,0,1,0,2,4
+14168911000001100,Fluvastatin 40mg capsules (Teva UK Ltd),0,0,0,5,280,140,False,5,0,1,0,2,2
+28989511000001101,Haloperidol 500microgram tablets (Crescent Pharma Ltd),0,0,0,5,280,140,False,2,0,0,1,0,1
+13694511000001100,Trandolapril 2mg capsules (Mylan),0,0,0,5,280,140,False,3,0,0,0,2,1
+39511000001108,Elantan LA50 capsules (Aspire Pharma Ltd),0,0,0,4.625,259,129,False,7,0,2,0,2,2
+7887511000001107,Cardioplen XL 10mg tablets (Chiesi Ltd),0,0,0,4.5,252,126,False,9,0,1,0,2,5
+162811000001100,Coracten XL 30mg capsules (UCB Pharma Ltd),0,0,0,4.5,252,126,False,6,0,0,0,2,3
+29024211000001100,Ipinnia XL 4mg tablets (Ethypharm UK Ltd),0,0,0,4.5,252,126,False,7,0,0,1,1,4
+21126211000001107,Repinex XL 2mg tablets (Aspire Pharma Ltd),0,0,0,4.5,252,126,False,5,0,0,1,0,4
+3079411000001101,Isotard 25XL tablets (Kyowa Kirin Ltd),0,0,0,4.125,231,115,False,11,0,1,0,2,7
+873411000001109,Cardura XL 8mg tablets (Pfizer Ltd),0,0,0,4,224,112,True,5,0,1,0,0,3
+36927911000001104,Prasugrel 10mg tablets (Accord Healthcare Ltd),0,0,0,4,224,112,False,6,0,0,0,1,4
+4551711000001106,Senokot Max Strength 15mg tablets (Reckitt Benckiser Healthcare (UK) Ltd),0,0,0,4,224,112,False,6,0,0,0,2,4
+11985311000001102,Zydol SR 50mg tablets (Grunenthal Ltd),0,0,0,3.571429,200,100,False,4,0,0,1,0,3
+21386611000001107,Gatalin XL 24mg capsules (Aspire Pharma Ltd),0,0,0,3.5,196,98,False,7,0,0,0,3,4
+904011000001104,Nifedipress MR 10 tablets (Dexcel-Pharma Ltd),0,0,0,3.5,196,98,False,4,0,0,0,1,3
+619111000001101,Nifedipress MR 20 tablets (Dexcel-Pharma Ltd),0,0,0,3.25,182,91,False,6,0,0,0,1,5
+23587011000001107,Cimetidine 400mg tablets (Bristol Laboratories Ltd),0,0,0,3.214286,180,90,False,3,0,0,0,1,2
+23953711000001101,Alfuzosin 2.5mg tablets (Milpharm Ltd),0,0,0,3.142857,176,88,False,4,0,0,2,0,2
+13412611000001106,Eucreas 50mg/850mg tablets (Novartis Pharmaceuticals UK Ltd),0,0,0,3.071429,172,86,False,2,0,0,0,0,2
+19624611000001106,Marol 150mg modified-release tablets (Teva UK Ltd),0,0,0,3.071429,172,86,False,3,0,0,0,0,3
+2886111000001104,Adizem-XL 300mg capsules (Napp Pharmaceuticals Ltd),0,0,0,3,168,84,False,5,0,0,2,0,3
+3232111000001105,Avomine 25mg tablets (Manx Healthcare Ltd),0,0,0,3,168,84,False,2,0,0,0,0,2
+28919311000001105,Haloperidol 5mg tablets (Crescent Pharma Ltd),0,0,0,3,168,84,False,5,0,1,0,2,2
+589211000001101,Isotard 40XL tablets (Kyowa Kirin Ltd),0,0,0,3,168,84,True,4,0,0,0,2,2
+55611000001105,Phenytoin sodium 100mg tablets (Teva UK Ltd),0,0,0,3,168,84,False,3,0,0,0,1,2
+4209211000001102,Promazine 25mg tablets (Teva UK Ltd),0,0,0,3,168,84,False,2,0,0,0,0,2
+36899311000001106,Rivastigmine 3mg capsules (Torrent Pharma (UK) Ltd),0,0,0,3,168,84,False,3,0,0,1,0,2
+12790311000001100,Tramulief SR 100mg tablets (Advanz Pharma( Amdipharm),0,0,0,3,168,84,False,3,0,0,0,0,3
+24018511000001102,Xigduo 5mg/1000mg tablets (AstraZeneca UK Ltd),0,0,0,3,168,84,False,3,0,1,1,0,1
+29025111000001105,Ipinnia XL 6mg tablets (Ethypharm UK Ltd),0,0,0,2.875,161,80,False,7,0,0,1,1,4
+16178611000001107,Zebinix 800mg tablets (Eisai Ltd),0,0,0,2.821429,158,79,False,4,0,0,0,1,2
+2886511000001108,Adizem-XL 200mg capsules (Napp Pharmaceuticals Ltd),0,0,0,2.5,140,70,False,5,0,0,1,1,3
+33767211000001103,Rupatadine 10mg tablets (Aspire Pharma Ltd),0,0,0,2.142857,120,60,False,1,0,0,0,0,1
+14026511000001105,Seroquel XL 50mg tablets (AstraZeneca UK Ltd),0,0,0,2.142857,120,60,False,2,0,0,0,0,2
+37997111000001105,Venlalic XL 300mg tablets (Ethypharm UK Ltd),0,0,0,2.071429,116,58,False,4,0,0,0,0,4
+9049911000001105,Adipine XL 60mg tablets (Chiesi Ltd),0,0,0,2,112,56,False,4,0,0,0,2,2
+20165011000001109,Amiloride 5mg tablets (Accord Healthcare Ltd),0,0,0,2,112,56,False,4,0,0,1,0,3
+298811000001103,Angitil SR 120 capsules (Ethypharm UK Ltd),0,0,0,2,112,56,False,2,0,0,1,0,1
+31502611000001109,Briviact 100mg tablets (UCB Pharma Ltd),0,0,0,2,112,56,False,2,0,0,1,0,1
+427111000001101,Isosorbide dinitrate 10mg tablets (Accord Healthcare Ltd),0,0,0,2,112,56,False,2,0,0,0,0,1
+8099111000001101,Moxonidine 300microgram tablets (Sandoz Ltd),0,0,0,2,112,56,False,3,0,0,2,0,1
+32772911000001108,Prednisolone 2.5mg tablets (Accord Healthcare Ltd),0,0,0,2,112,56,False,3,0,0,0,1,2
+36899711000001105,Rivastigmine 6mg capsules (Torrent Pharma (UK) Ltd),0,0,0,2,112,56,False,2,0,0,0,1,1
+4214611000001101,Sominex 20mg tablets (Teva UK Ltd) (Actavis),0,0,0,2,112,56,False,4,0,0,2,0,2
+872011000001109,Teveten 600mg tablets (Mylan),0,0,0,2,112,56,False,4,0,0,1,1,2
+7418711000001109,Vera-Til SR 240mg tablets (Tillomed Laboratories Ltd),0,0,0,2,112,56,False,2,0,0,0,0,2
+33211000001108,Viazem XL 180mg capsules (Thornton & Ross Ltd),0,0,0,2,112,56,False,2,0,0,0,1,1
+14196911000001101,Vimpat 150mg tablets (UCB Pharma Ltd),0,0,0,2,112,56,False,2,0,0,1,0,1
+35548011000001105,Yaltormin SR 750mg tablets (Wockhardt UK Ltd),0,0,0,2,112,56,False,2,0,0,0,0,1
+105211000001107,Zemtard 120 XL capsules (Galen Ltd),0,0,0,2,112,56,False,4,0,0,0,0,2
+813611000001103,Zemtard 180 XL capsules (Galen Ltd),0,0,0,2,112,56,False,4,0,0,1,1,2
+15376311000001107,Lamberts Taurine 500mg capsules (Lamberts Healthcare Ltd),0,0,0,2,112,56,False,1,0,0,1,0,0
+35581811000001102,CyanocoMinn 50microgram tablets (Essential-Healthcare Ltd),0,0,0,2,112,56,False,3,0,0,0,2,1
+23675011000001103,Vesomni 6mg/0.4mg modified-release tablets (Astellas Pharma Ltd),0,0,0,1.607143,90,45,False,2,0,0,0,0,2
+9049711000001108,Adipine XL 30mg tablets (Chiesi Ltd),0,0,0,1.5,84,42,False,3,0,0,0,1,1
+857011000001109,Angitil SR 90 capsules (Ethypharm UK Ltd),0,0,0,1.5,84,42,False,2,0,0,0,0,2
+32648111000001104,Ascorbic acid 100mg tablets (Crescent Pharma Ltd),0,0,0,1.5,84,42,False,2,0,1,0,1,0
+3807811000001103,Budenofalk 3mg gastro-resistant capsules (Dr. Falk Pharma UK Ltd),0,0,0,1.5,84,42,False,3,0,0,1,0,2
+3079911000001109,Isotard 50XL tablets (Kyowa Kirin Ltd),0,0,0,1.5,84,42,False,3,0,0,1,1,1
+517311000001102,Macrobid 100mg modified-release capsules (Advanz Pharma) (Mercury Pharma Group Ltd),0,0,0,1.5,84,42,False,3,0,0,0,1,2
+3161911000001107,Mintec 0.2ml gastro-resistant capsules (Almirall Ltd),0,0,0,1.5,84,42,False,1,0,0,0,0,1
+19819611000001106,Oxazepam 15mg tablets (Almus Pharmaceuticals Ltd),0,0,0,1.5,84,42,False,2,0,0,0,2,0
+372011000001107,Piriton 4mg tablets (GlaxoSmithKline Consumer Healthcare),0,0,0,1.5,84,42,False,2,0,0,0,0,2
+21120411000001109,Repinex XL 4mg tablets (Aspire Pharma Ltd),0,0,0,1.5,84,42,False,1,0,0,0,0,1
+21126711000001100,Repinex XL 8mg tablets (Aspire Pharma Ltd),0,0,0,1.5,84,42,False,3,0,0,1,1,1
+36511911000001108,Valsartan 80mg capsules (Crescent Pharma Ltd),0,0,0,1.5,84,42,False,2,0,0,0,0,2
+32311000001105,Viazem XL 120mg capsules (Thornton & Ross Ltd),0,0,0,1.5,84,42,False,2,0,0,0,0,1
+648211000001107,Viazem XL 360mg capsules (Thornton & Ross Ltd),0,0,0,1.5,84,42,False,2,0,0,0,0,2
+13123911000001104,Inovelon 200mg tablets (Eisai Ltd),0,0,0,1.5,84,42,False,1,0,0,0,0,1
+23472811000001100,Irbesartan 300mg / Hydrochlorothiazide 25mg tablets (Accord Healthcare Ltd),0,0,0,1.5,84,42,False,1,0,0,0,1,0
+483211000001105,Ferrograd Folic 325mg/350microgram modified-release tablets (Teofarma),0,0,0,1.071429,60,30,False,2,0,0,0,1,1
+29902111000001100,Lixiana 15mg tablets (Daiichi Sankyo UK Ltd),0,0,0,1.071429,60,30,False,2,0,0,0,0,1
+28994711000001109,Mintreleq XL 50mg tablets (Aristo Pharma Ltd),0,0,0,1.071429,60,30,False,1,0,0,0,0,1
+36800811000001108,Slenyto 1mg modified-release tablets (Flynn Pharma Ltd),0,0,0,1.071429,60,30,False,1,0,0,1,0,0
+36801111000001107,Slenyto 5mg modified-release tablets (Flynn Pharma Ltd),0,0,0,1.071429,60,30,False,1,0,0,0,0,1
+28995111000001107,Mintreleq XL 200mg tablets (Aristo Pharma Ltd),0,0,0,1.035714,58,29,False,2,0,0,1,0,1
+36598011000001104,Amiodarone 100mg tablets (Bristol Laboratories Ltd),0,0,0,1,56,28,False,2,0,0,0,1,1
+336611000001101,Angitil SR 180 capsules (Ethypharm UK Ltd),0,0,0,1,56,28,False,1,0,0,0,0,1
+20513211000001109,Atorvastatin 60mg tablets (Consilient Health Ltd),0,0,0,1,56,28,False,2,0,0,0,1,1
+28400811000001105,Biquelle XL 400mg tablets (Aspire Pharma Ltd),0,0,0,1,56,28,False,1,0,0,0,0,1
+31501311000001108,Briviact 50mg tablets (UCB Pharma Ltd),0,0,0,1,56,28,False,1,0,0,0,1,0
+3679611000001105,Depixol 3mg tablets (Lundbeck Ltd),0,0,0,1,56,28,False,2,0,0,1,0,1
+34624711000001101,Etoricoxib 120mg tablets (Accord Healthcare Ltd),0,0,0,1,56,28,False,2,0,1,0,0,1
+595611000001101,Faverin 100mg tablets (Mylan),0,0,0,1,56,28,False,1,0,0,0,0,1
+542511000001103,Faverin 50mg tablets (Mylan),0,0,0,1,56,28,False,1,0,0,0,0,1
+35922511000001105,Ibandronic acid 50mg tablets (Consilient Health Ltd),0,0,0,1,56,28,False,1,0,0,1,0,0
+34438111000001109,Imipramine 10mg tablets (Crescent Pharma Ltd),0,0,0,1,56,28,False,1,0,0,0,0,1
+713911000001106,Isotard 60XL tablets (Kyowa Kirin Ltd),0,0,0,1,56,28,False,1,0,0,0,0,1
+7892111000001104,Lyrica 300mg capsules (Pfizer Ltd),0,0,0,1,56,28,False,1,0,0,0,0,1
+616111000001109,Oxazepam 10mg tablets (Genus Pharmaceuticals Ltd),0,0,0,1,56,28,False,1,0,0,0,1,0
+13628111000001107,ReQuip XL 2mg tablets (GlaxoSmithKline UK Ltd),0,0,0,1,56,28,False,1,0,0,0,1,0
+13628411000001102,ReQuip XL 4mg tablets (GlaxoSmithKline UK Ltd),0,0,0,1,56,28,False,1,0,0,0,1,0
+13628711000001108,ReQuip XL 8mg tablets (GlaxoSmithKline UK Ltd),0,0,0,1,56,28,False,1,0,0,0,1,0
+20356211000001106,Sondate XL 200mg tablets (Teva UK Ltd),0,0,0,1,56,28,False,2,0,0,0,0,2
+38238111000001109,Sukkarto SR 750mg tablets (Morningside Healthcare Ltd),0,0,0,1,56,28,False,1,0,0,0,0,1
+893111000001107,Tildiem LA 300 capsules (Sanofi),0,0,0,1,56,28,False,1,0,0,0,0,1
+24018111000001106,Xigduo 5mg/850mg tablets (AstraZeneca UK Ltd),0,0,0,1,56,28,False,1,0,0,0,0,1
+28412111000001101,Zaluron XL 300mg tablets (Fontus Health Ltd),0,0,0,1,56,28,False,1,0,0,0,0,1
+34581711000001102,Zebinix 200mg tablets (Eisai Ltd),0,0,0,1,56,28,False,2,0,0,0,0,1
+38159511000001109,Trazodone 50mg tablets (Accord Healthcare Ltd),0,0,0,1,56,28,False,2,0,0,0,1,1
+20130111000001107,Trihexyphenidyl 2mg tablets (Crescent Pharma Ltd),0,0,0,0.75,42,21,False,1,0,0,0,1,0
+30170811000001102,Moventig 25mg tablets (Kyowa Kirin Ltd),0,0,0,0.5357143,30,15,False,1,0,1,0,0,0
+36357411000001102,Pramipexole 2.62mg modified-release tablets (Mylan),0,0,0,0.5357143,30,15,False,1,0,0,1,0,0
+30247511000001100,Brintellix 5mg tablets (Lundbeck Ltd),0,0,0,0.5,28,14,False,1,0,0,0,0,1
+9039311000001108,Cymbalta 60mg gastro-resistant capsules (Eli Lilly and Company Ltd),0,0,0,0.5,28,14,False,1,0,0,0,0,1
+32064711000001105,Dexamethasone 500microgram tablets (Aspire Pharma Ltd),0,0,0,0.5,28,14,False,1,0,0,0,0,1
+348911000001105,Diurexan 20mg tablets (Viatris UK Healthcare Ltd)(Mylan),0,0,0,0.5,28,14,False,1,0,0,0,0,1
+33597011000001107,Entacapone 200mg tablets (Mylan),0,0,0,0.5,28,14,False,1,0,0,0,0,1
+21385211000001104,Gatalin XL 16mg capsules (Aspire Pharma Ltd),0,0,0,0.5,28,14,False,1,0,0,0,0,1
+724111000001103,Half Beta-Prograne 80mg modified-release capsules (Tillomed Laboratories Ltd),0,0,0,0.5,28,14,False,1,0,0,0,0,1
+21200511000001100,Phenytoin sodium 25mg capsules (Flynn Pharma Ltd),0,0,0,0.5,28,14,False,1,0,0,0,0,1
+16597911000001103,Resolor 1mg tablets (Shire Pharmaceuticals Ltd),0,0,0,0.5,28,14,False,1,0,0,0,1,0
+14025311000001109,Seroquel XL 200mg tablets (AstraZeneca UK Ltd),0,0,0,0.5,28,14,False,1,0,0,0,0,1
+20356611000001108,Sondate XL 400mg tablets (Teva UK Ltd),0,0,0,0.5,28,14,False,1,0,0,0,0,0
+28411711000001107,Zaluron XL 150mg tablets (Fontus Health Ltd),0,0,0,0.5,28,14,False,1,0,0,0,0,1
+345411000001107,Zemtard 240 XL capsules (Galen Ltd),0,0,0,0.5,28,14,False,1,0,0,0,0,1
+2886711000001103,Adizem-SR 180mg capsules (Napp Pharmaceuticals Ltd),0,0,0,0.25,14,7,False,1,0,1,0,0,0
+232011000001102,Lipitor 20mg tablets (Pfizer Ltd( Vitaris),0,0,0,0.25,14,7,False,2,0,0,2,0,0
+28400611000001106,Biquelle XL 300mg tablets (Aspire Pharma Ltd),0,1,1,3.642857,204,102,True,6,0,1,1,2,2
+30296111000001103,Rasagiline 1mg tablets (Teva UK Ltd),8,0,8,12.5,700,350,False,20,0,0,4,4,11
+15507911000001102,Ropinirole 250microgram tablets (Teva UK Ltd),6,0,6,9,504,252,False,7,0,1,1,0,5
+11342011000001107,Ferrous sulfate 200mg tablets (Sandoz Ltd),0,1366,1366,255.75,14322,7161,True,252,0,14,33,59,130
+36890711000001103,Zonisamide 50mg capsules (Mylan),0,56,56,10,560,280,True,9,0,0,2,1,6
+11430211000001109,Tizanidine 2mg tablets (Teva UK Ltd),0,59,59,8,448,224,True,3,0,0,0,1,1
+20537711000001104,Levothyroxine sodium 25microgram tablets (Advanz Pharma),500,3372,3872,503.6786,28206,14103,True,815,0,44,98,209,419
+153611000001101,Clopixol 2mg tablets (Lundbeck Ltd),0,72,72,8.5,476,238,True,5,0,0,0,1,2
+36910711000001105,Ursonorm 250mg capsules (PRO.MED.CS Praha a.s.),0,237,237,21.64286,1212,606,True,12,0,1,1,3,7
+827511000001102,Clopixol 10mg tablets (Lundbeck Ltd),0,191,191,15,840,420,True,8,0,0,2,1,5
+389611000001101,Coracten SR 20mg capsules (UCB Pharma Ltd),0,200,200,13.35714,748,374,True,12,0,1,2,1,7
+4334511000001103,Omacor capsules (Mylan),0,252,252,14.5,812,406,True,9,0,1,0,4,4
+24573811000001100,Nebivolol 2.5mg tablets (Teva UK Ltd),0,148,148,7.75,434,217,True,13,0,0,3,4,6
+34624611000001105,Etoricoxib 90mg tablets (Accord Healthcare Ltd),0,254,254,13,728,364,True,28,0,2,3,5,15
+33617611000001109,Levothyroxine sodium 12.5microgram tablets (Teva UK Ltd),0,106,106,5,280,140,True,9,0,2,1,2,4
+16048511000001100,Digoxin 125microgram tablets (Bristol Laboratories Ltd),0,1159,1159,54.625,3059,1529,True,101,0,8,12,27,49
+28411511000001102,Zaluron XL 50mg tablets (Fontus Health Ltd),0,115,115,5.214286,292,146,True,6,0,0,1,2,3
+383911000001109,Tildiem Retard 120mg tablets (Sanofi),0,244,244,11,616,308,True,7,0,0,2,1,4
+4206011000001101,Topamax 25mg sprinkle capsules (Janssen-Cilag Ltd),0,92,92,4.142857,232,116,True,3,0,1,1,0,1
+15628011000001102,Clobazam 10mg tablets (Accord Healthcare Ltd),0,656,656,26.98214,1511,755,True,28,0,2,6,4,15
+23636011000001109,Vipidia 12.5mg tablets (Takeda UK Ltd),0,259,259,10.5,588,294,True,18,0,0,4,4,8
+36797511000001109,Agomelatine 25mg tablets (Accord Healthcare Ltd),0,151,151,6,336,168,True,6,0,0,2,2,2
+8098911000001106,Moxonidine 200microgram tablets (Sandoz Ltd),0,354,354,11.75,658,329,True,13,0,0,1,4,8
+28988711000001102,Trimethoprim 200mg tablets (Crescent Pharma Ltd),0,48,48,1.5,84,42,True,4,0,0,0,2,2
+19561311000001100,Olanzapine 7.5mg tablets (Teva UK Ltd),0,273,273,7.5,420,210,True,14,0,2,2,2,8
+874511000001106,Methyldopa 250mg tablets (Accord Healthcare Ltd),0,81,81,2,112,56,True,2,0,0,0,1,1
+20115111000001106,Januvia 25mg tablets (Merck Sharp & Dohme Ltd),0,140,140,3,168,84,True,5,0,1,1,2,1
+15993011000001101,Onglyza 5mg tablets (AstraZeneca UK Ltd),0,243,243,5,280,140,True,9,0,1,2,1,5
+3682211000001109,Provigil 100mg tablets (Teva UK Ltd),0,330,330,4.821429,270,135,True,3,0,0,1,0,2
+3965511000001104,Eudemine 50mg tablets (RPH Pharmaceuticals AB),0,188,188,2,112,56,True,1,0,0,0,1,0
+11015511000001101,Chlorpromazine 25mg tablets (Dr Reddy's Laboratories (UK) Ltd),0,560,560,1.5,84,42,True,1,0,0,0,0,0
+39946211000001100,Risperidone 1mg tablets (Bristol Laboratories Ltd),86,0,86,58.46429,3274,1637,False,58,0,1,8,8,34
+19827511000001105,Valsartan 40mg capsules (Mylan),16,0,16,5.5,308,154,False,3,0,0,0,2,1
+33494911000001108,Ongentys 50mg capsules (BIAL Pharma UK Ltd),16,0,16,3.142857,176,88,False,4,0,0,2,1,0
+35167811000001103,Metoprolol 50mg tablets (Milpharm Ltd),129,0,129,24,1344,672,False,26,0,3,4,6,10
+28356611000001106,Methocarbamol 750mg tablets (Kinedexe UK Ltd),42,0,42,7.785714,436,218,False,3,0,0,0,0,3
+20327411000001106,Nitrofurantoin 50mg tablets (Genesis Pharmaceuticals Ltd),56,0,56,10,560,280,False,17,0,0,3,5,9
+30788311000001105,Pregabalin 300mg capsules (Accord Healthcare Ltd),672,486,1158,193.0357,10810,5405,True,195,0,15,25,43,95
+198211000001102,Salazopyrin EN-Tabs 500mg (Pfizer Ltd),336,20,356,54.92857,3076,1538,True,20,0,3,2,5,10
+16546911000001105,Co-beneldopa 12.5mg/50mg capsules (Teva UK Ltd),100,405,505,58.32143,3266,1633,True,18,0,1,4,4,8
+35163611000001105,Lamotrigine 50mg tablets (Milpharm Ltd),392,719,1111,120.2857,6736,3368,True,119,0,10,19,30,57
+13748611000001107,Glucophage SR 750mg tablets (Merck Serono Ltd),28,196,224,22.5,1260,630,True,17,0,2,2,4,5
+19843611000001104,Orlistat 120mg capsules (Teva UK Ltd),168,229,397,33,1848,924,True,21,0,1,5,6,8
+32203511000001106,Fludrocortisone 100microgram tablets (Viatris UK Healthcare Ltd (Mylan)),286,353,639,49.91071,2795,1397,True,74,0,6,10,17,38
+33665211000001103,Ventra 40mg gastro-resistant capsules (Ethypharm UK Ltd),140,294,434,26.5,1484,742,True,38,0,2,6,8,20
+14199511000001103,Vimpat 100mg tablets (UCB Pharma Ltd),69,168,237,14.14286,792,396,True,10,0,1,1,2,6
+73911000001102,Madopar 50mg/12.5mg capsules (Roche Products Ltd),116,180,296,17.5,980,490,True,9,0,2,1,1,5
+844111000001103,Prednisolone 1mg tablets (Wockhardt UK Ltd),224,504,728,37,2072,1036,True,31,0,2,1,8,16
+18290311000001104,Brilique 90mg tablets (AstraZeneca UK Ltd),224,428,652,33,1848,924,True,31,0,1,5,9,15
+14958711000001106,Venlafaxine 37.5mg tablets (Teva UK Ltd),0,306,306,50.03571,2802,1401,True,48,0,6,6,12,23
+18045011000001105,Clopidogrel 75mg tablets (Aspire Pharma Ltd),4436,390,4826,609.2679,34119,17059,True,1063,0,73,134,253,550
+3159311000001102,Galfer 305mg capsules (Thornton & Ross Ltd),110,0,110,13.66071,765,382,False,17,0,1,0,4,11
+21284211000001107,Irbesartan 75mg tablets (Accord Healthcare Ltd),140,0,140,14,784,392,True,23,0,4,4,4,10
+3662411000001105,DDAVP 0.1mg tablets (Ferring Pharmaceuticals Ltd),62,0,62,6.107143,342,171,False,5,0,0,2,1,2
+20495411000001101,Atorvastatin 80mg tablets (Teva UK Ltd),4956,632,5588,525,29400,14700,True,895,0,54,106,228,457
+34740911000001104,Venlasov XL 75mg capsules (Sovereign Medical Ltd),560,0,560,51,2856,1428,True,72,0,6,6,19,35
+16058511000001102,Lamotrigine 25mg tablets (Bristol Laboratories Ltd),1120,24,1144,102.8571,5760,2880,True,85,0,7,10,25,42
+18507611000001104,Risperidone 500microgram tablets (Almus Pharmaceuticals Ltd),700,292,992,88.96429,4982,2491,True,95,0,3,10,24,49
+517511000001108,Kwells 300microgram tablets (Dexcel-Pharma Ltd),114,0,114,9.5,532,266,False,9,0,2,1,2,4
+9890111000001108,Lansoprazole 30mg gastro-resistant capsules (Teva UK Ltd),12040,784,12824,1033.196,57859,28929,True,1665,0,99,234,412,834
+35137011000001104,Betahistine 16mg tablets (Milpharm Ltd),840,188,1028,82.375,4613,2306,True,57,0,7,7,13,29
+18468011000001104,Simvastatin 20mg tablets (Accord Healthcare Ltd),3000,569,3569,285.375,15981,7990,True,463,0,31,62,113,220
+10822611000001105,Co-codamol 30mg/500mg capsules (Zentiva),600,157,757,59,3304,1652,True,17,0,0,4,3,10
+36043611000001106,Hydroxyzine 25mg tablets (Medreich Plc),168,0,168,13,728,364,False,18,0,3,3,4,8
+30990611000001108,Duciltia 60mg gastro-resistant capsules (Aristo Pharma Ltd),3584,121,3705,286.1964,16027,8013,True,388,0,28,50,91,193
+19196111000001103,Paroxetine 30mg tablets (Milpharm Ltd),175,0,175,13.39286,750,375,False,23,0,2,1,8,12
+443711000001108,Tegretol 200mg tablets (Novartis Pharmaceuticals UK Ltd),756,312,1068,81,4536,2268,True,52,0,3,10,11,25
+35163811000001109,Lamotrigine 100mg tablets (Milpharm Ltd),1960,426,2386,176.6071,9890,4945,True,146,0,16,21,34,74
+38739511000001103,Ramipril 5mg capsules (Crescent Pharma Ltd),5964,484,6448,473.5,26516,13258,True,675,0,29,80,182,337
+30990411000001105,Duciltia 30mg gastro-resistant capsules (Aristo Pharma Ltd),1680,303,1983,145,8120,4060,True,197,0,9,27,55,91
+16064811000001100,Ramipril 2.5mg capsules (Bristol Laboratories Ltd),5600,257,5857,423.25,23702,11851,True,668,0,50,74,166,330
+18482611000001107,Octasa 800mg MR gastro-resistant tablets (Tillotts Pharma Ltd),539,236,775,55.28571,3096,1548,True,23,0,3,3,5,12
+20494411000001102,Atorvastatin 20mg tablets (Teva UK Ltd),16800,1910,18710,1326.893,74306,37153,True,2203,0,136,285,539,1118
+555511000001106,Lofepramine 70mg tablets (Accord Healthcare Ltd),280,26,306,21.5,1204,602,True,16,0,2,3,4,5
+16065411000001101,Ramipril 10mg capsules (Bristol Laboratories Ltd),7980,837,8817,602.75,33754,16877,True,976,0,59,119,256,486
+16062811000001106,Paracetamol 500mg capsules (Bristol Laboratories Ltd),785,160,945,63,3528,1764,True,17,0,2,4,2,7
+35136811000001108,Betahistine 8mg tablets (Milpharm Ltd),756,347,1103,73.5,4116,2058,True,42,0,2,6,8,23
+916711000001109,Aspirin 75mg dispersible tablets (Accord Healthcare Ltd),10800,3006,13806,917.1071,51358,25679,True,1529,0,92,210,378,763
+3637411000001100,Keppra 1g tablets (UCB Pharma Ltd),720,147,867,57.28571,3208,1604,True,52,0,5,3,14,27
+16677511000001108,Zicron 40mg tablets (Bristol Laboratories Ltd),1680,496,2176,141.5,7924,3962,True,140,0,8,20,32,71
+33607811000001106,Pregabalin 200mg capsules (Viatris UK Healthcare Ltd( Mylan),996,364,1360,87.5,4900,2450,True,77,0,3,9,19,37
+28986811000001109,Furosemide 40mg tablets (Crescent Pharma Ltd),6720,840,7560,480.125,26887,13443,True,638,0,43,78,175,303
+35141611000001103,Donepezil 10mg tablets (Milpharm Ltd),1120,243,1363,86.125,4823,2411,True,157,0,14,18,35,83
+28977911000001109,Allopurinol 300mg tablets (Crescent Pharma Ltd),2044,474,2518,156.75,8778,4389,True,238,0,11,33,55,126
+37295011000001101,Pregabalin 50mg capsules (Sciecure Pharma Ltd),2268,405,2673,163.3393,9147,4573,True,138,0,8,18,34,68
+28918111000001101,Simvastatin 40mg tablets (Crescent Pharma Ltd),3920,1631,5551,331.6071,18570,9285,True,569,0,38,70,149,280
+3037111000001103,DHC Continus 60mg tablets (Napp Pharmaceuticals Ltd),56,28,84,5,280,140,True,5,0,0,2,1,2
+285611000001107,Colofac MR 200mg capsules (Mylan),240,105,345,20.25,1134,567,True,19,0,0,1,2,11
+8990711000001100,Glucophage SR 500mg tablets (Merck Serono Ltd),420,246,666,39,2184,1092,True,16,0,1,3,3,7
+540111000001108,Securon SR 240mg tablets (Mylan),112,53,165,9.5,532,266,True,15,0,2,2,2,8
+15453711000001109,Pantoprazole 20mg gastro-resistant tablets (Accord Healthcare Ltd),280,251,531,30,1680,840,True,40,0,3,8,7,20
+598211000001105,Elantan LA25 capsules (Forum Health Products Ltd),336,145,481,25.625,1435,717,True,46,0,3,13,7,21
+35582011000001100,FerroEss 210mg tablets (Essential-Healthcare Ltd),4200,1826,6026,318.75,17850,8925,True,303,0,27,39,65,154
+18460711000001104,Citalopram 10mg tablets (Accord Healthcare Ltd),2240,1628,3868,201.25,11270,5635,True,323,0,15,38,74,178
+38058511000001106,ColeDose D3 800unit capsules (TriOn Pharma Ltd),1500,587,2087,108.4643,6074,3037,True,180,0,16,22,44,93
+14194411000001101,Vimpat 200mg tablets (UCB Pharma Ltd),224,157,381,19.5,1092,546,True,15,0,2,1,2,9
+454311000001109,Uniphyllin Continus 200mg tablets (Napp Pharmaceuticals Ltd),672,420,1092,55.32143,3098,1549,True,47,0,4,6,12,21
+20137611000001100,Atenolol 25mg tablets (Crescent Pharma Ltd),1120,518,1638,82.5,4620,2310,True,125,0,8,14,36,59
+183511000001107,Kemadrin 5mg tablets (Aspen Pharma Trading Ltd),756,396,1152,58,3248,1624,True,68,0,3,9,18,34
+591711000001108,Zopiclone 7.5mg tablets (Accord Healthcare Ltd),280,145,425,20.75,1162,581,True,42,0,3,7,8,22
+35179311000001108,Quetiapine 200mg tablets (Milpharm Ltd),300,306,606,29.07143,1628,814,True,44,0,4,10,9,19
+2887011000001102,Adizem-SR 90mg capsules (Napp Pharmaceuticals Ltd),224,312,536,25.64286,1436,718,True,24,0,4,2,6,11
+14975211000001108,Vensir XL 75mg capsules (Morningside Healthcare Ltd),336,256,592,27.5,1540,770,True,38,0,3,3,9,20
+647711000001101,Doxazosin 1mg tablets (Teva UK Ltd),560,637,1197,55.5,3108,1554,True,79,0,6,9,19,38
+15375711000001103,Venlalic XL 75mg tablets (Ethypharm UK Ltd),750,579,1329,61.58929,3449,1724,True,77,0,8,8,18,35
+33616611000001107,Levothyroxine sodium 75microgram tablets (Teva UK Ltd),560,873,1433,65.75,3682,1841,True,112,0,4,19,27,56
+21288211000001101,Pramipexole 88microgram tablets (Accord Healthcare Ltd),450,817,1267,56.98214,3191,1595,True,41,0,1,7,10,20
+544411000001109,Alfacalcidol 250nanogram capsules (Theramex HQ UK Ltd),210,228,438,19.28572,1080,540,True,27,0,4,5,7,10
+15375411000001109,Venlalic XL 150mg tablets (Ethypharm UK Ltd),600,529,1129,48.80357,2733,1366,True,72,0,4,9,18,35
+30788111000001108,Pregabalin 225mg capsules (Accord Healthcare Ltd),224,147,371,16,896,448,True,16,0,1,2,4,7
+13411611000001100,Galvus 50mg tablets (Novartis Pharmaceuticals UK Ltd),112,74,186,8,448,224,True,9,0,2,1,1,4
+19560911000001106,Olanzapine 2.5mg tablets (Teva UK Ltd),280,395,675,29,1624,812,True,44,0,2,6,7,23
+21426611000001105,Octasa 400mg MR gastro-resistant tablets (Tillotts Pharma Ltd),360,624,984,42,2352,1176,True,17,0,2,1,5,6
+29951511000001109,Eplerenone 25mg tablets (Aspire Pharma Ltd),532,1238,1770,75.25,4214,2107,True,128,0,7,11,43,61
+940311000001100,Prednisolone 5mg tablets (Wockhardt UK Ltd),1092,834,1926,78.25,4382,2191,True,90,0,2,10,25,44
+28685811000001100,Amisulpride 50mg tablets (Rivopharm (UK) Ltd),180,176,356,14.21429,796,398,True,9,0,1,0,3,4
+39299211000001101,Gliclazide 60mg modified-release tablets (Accord Healthcare Ltd),280,258,538,21,1176,588,True,20,0,1,2,7,9
+870711000001107,Pro-Banthine 15mg tablets (Kyowa Kirin Ltd),224,224,448,17.03572,954,477,True,8,0,0,2,1,5
+32799511000001101,Dosulepin 75mg tablets (Genesis Pharmaceuticals Ltd),140,254,394,13.5,756,378,True,11,0,1,1,2,7
+261611000001107,Tildiem LA 200 capsules (Sanofi),112,134,246,8,448,224,True,14,0,1,1,4,7
+126411000001108,Coracten SR 10mg capsules (UCB Pharma Ltd),180,323,503,16.35714,916,458,True,13,0,0,2,4,7
+17204811000001106,Pizotifen 1.5mg tablets (Sovereign Medical Ltd),280,424,704,21.5,1204,602,True,28,0,0,1,8,13
+327711000001105,Chemydur 60XL tablets (Advanz Pharma),252,531,783,21.78572,1220,610,True,36,0,0,9,5,21
+3659411000001105,Sotalol 80mg tablets (Teva UK Ltd),280,444,724,20,1120,560,True,16,0,1,2,2,10

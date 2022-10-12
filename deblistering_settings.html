@@ -1,0 +1,144 @@
+{% extends 'base2.html' %}
+
+{% block title %}
+Deblistering equipment settings
+{% endblock %}
+
+{% block content %}
+
+<div class="container">
+<div class="row">
+<div class="col">
+
+    </div>
+    <div class="col-6">
+    <h2><center>Scan barcode:</h2></center>
+    </div>
+    <div class="col">
+
+</div>
+</div>
+<div class="row">
+<div class="col">
+</div>
+
+    <center>
+    <div class="mx-auto"><input type="number" id="userInput" /></div>
+    <div class="mx-auto"><br><button type="button" id="findBtn">Find</button><br><br></div>
+    </div></center>
+    <center><b><div class="mx-auto" style="font-size:20px; background-color:orange; color:black;" id="drug_name"></b></div></center>
+    <br>
+    <center><b><div class="mx-auto" style="font-size:20px; background-color:black; color:#F4D03F;" id="pack_size"></b></div></center>
+    <center><b><div class="mx-auto" style="font-size:20px; background-color:gray; color:#F4D03F;" id="electric_stripfoil"></b></div></center>
+    <center><b><div class="mx-auto" style="font-size:20px; background-color:black; color:#F4D03F;" id="speed"></b></div></center>
+    <center><b><div class="mx-auto" style="font-size:20px; background-color:gray; color:#F4D03F;" id="nip_rollers_gap"></b></div></center>
+    <center><b><div class="mx-auto" style="font-size:20px; background-color:black; color:#F4D03F;" id="roller_size"></b></div></center>
+    <center><b><div class="mx-auto" style="font-size:20px; background-color:gray; color:#F4D03F;" id="ur_roller"></b></div></center>
+    <center><b><div class="mx-auto" style="font-size:20px; background-color:black; color:#F4D03F;" id="tape_width"></b></div></center>
+    <center><b><div class="mx-auto" style="font-size:20px; background-color:gray; color:#F4D03F;" id="finger_on_chute"></b></div></center>
+    <center><b><div class="mx-auto" style="font-size:20px; background-color:black; color:#F4D03F;" id="chute_position"></b></div></center>
+    <center><b><div class="mx-auto" style="font-size:20px; background-color:gray; color:#F4D03F;" id="edge_leading"></b></div></center>
+    </div>
+
+<div class="col">
+</div>
+</div>
+</div>
+<br></center>
+
+<script>
+
+const userInput = document.getElementById('userInput');
+const findBtn = document.getElementById('findBtn');
+const drug_name = document.getElementById('drug_name');
+const pack_size = document.getElementById('pack_size');
+const electric_stripfoil = document.getElementById('electric_stripfoil');
+const speed = document.getElementById('speed');
+const nip_rollers_gap = document.getElementById('nip_rollers_gap');
+const roller_size = document.getElementById('roller_size');
+const ur_roller = document.getElementById('ur_roller');
+const tape_width = document.getElementById('tape_width');
+const finger_on_chute = document.getElementById('finger_on_chute');
+const chute_position = document.getElementById('chute_position');
+const edge_leading = document.getElementById('edge_leading');
+
+let debList = new Array();
+let tempObject = {};
+
+{% for i in range(0, deb_set_list_len) %}
+
+    tempObject = {
+        drug_name: "{{ deblistering_settings_list[i].drug_name }}",
+        ampp: "{{ deblistering_settings_list[i].ampp }}",
+        amp: "{{ deblistering_settings_list[i].amp }}",
+        vmp: "{{ deblistering_settings_list[i].vmp }}",
+        vmpp: "{{ deblistering_settings_list[i].vmpp }}",
+        gtin: "{{ deblistering_settings_list[i].gtin }}",
+        pack_size: "{{ deblistering_settings_list[i].pack_size }}",
+        electric_stripfoil: "{{ deblistering_settings_list[i].electric_stripfoil }}",
+        speed: "{{ deblistering_settings_list[i].speed }}",
+        nip_rollers_gap: "{{ deblistering_settings_list[i].nip_rollers_gap }}",
+        roller_size: "{{ deblistering_settings_list[i].roller_size }}",
+        ur_roller: "{{ deblistering_settings_list[i].ur_roller }}",
+        tape_width: "{{ deblistering_settings_list[i].tape_width }}",
+        finger_on_chute: "{{ deblistering_settings_list[i].finger_on_chute }}",
+        chute_position: "{{ deblistering_settings_list[i].chute_position }}",
+        edge_leading: "{{ deblistering_settings_list[i].edge_leading }}"
+    };
+
+    debList.push(tempObject);
+
+{% endfor %}
+
+function getUserInput() {
+  return userInput.value;
+}
+
+function find() {
+    const barcode = getUserInput();
+
+    for (let i = 0; i < debList.length; i++) {
+        if (debList[i].gtin === barcode) {
+            console.log(debList[i].gtin + " = " + barcode);
+            console.log("Drug name: " + debList[i].drug_name);
+            console.log("Pack size: " + debList[i].pack_size);
+            console.log("Electric stripfoil? " + debList[i].electric_stripfoil);
+            console.log("Speed: " + debList[i].speed);
+            console.log("Nip_rollers_gap: " + debList[i].nip_rollers_gap);
+            console.log("roller_size: " + debList[i].roller_size);
+            console.log("ur_roller: " + debList[i].ur_roller);
+            console.log("tape_width: " + debList[i].tape_width);
+            console.log("finger_on_chute: " + debList[i].finger_on_chute);
+            console.log("chute_position: " + debList[i].chute_position);
+            console.log("edge_leading: " + debList[i].edge_leading);
+
+            drug_name.textContent = `${debList[i].drug_name}`;
+            pack_size.textContent = `Pack size: ${debList[i].pack_size}`;
+            electric_stripfoil.textContent = `Electric striptofil: ${debList[i].electric_stripfoil}`;
+            speed.textContent = `Speed: ${debList[i].speed}`;
+            nip_rollers_gap.textContent = `Nip rollers gap: ${debList[i].nip_rollers_gap}`;
+            roller_size.textContent = `Roller size: ${debList[i].roller_size}`;
+            ur_roller.textContent = `UR roller: ${debList[i].ur_roller}`;
+            tape_width.textContent = `Tape width: ${debList[i].tape_width}`;
+            finger_on_chute.textContent = `Finger on chute: ${debList[i].finger_on_chute}`;
+            chute_position.textContent = `Chute position: ${debList[i].chute_position}`;
+            edge_leading.textContent = `Edge leading: ${debList[i].edge_leading}`;
+
+        }
+    }
+
+    // debList.forEach((item) => {
+    // for (const key in item) {
+    //     console.log(`${key}: ${item[key]}`);
+    // }});
+
+}
+
+
+
+findBtn.addEventListener('click', find);
+
+</script>
+
+
+{% endblock %}

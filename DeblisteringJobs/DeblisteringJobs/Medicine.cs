@@ -15,9 +15,9 @@ namespace DeblisteringJobs
     {
         // JSON files requierd as input:
 
-        private const string MedicinesFilePath = @"C:\Users\ThomasMacheychuk\Desktop\Power BI\Deblistering updates\Medicines-2022-10-09.json";
-        private const string MedContainersFilePath = @"C:\Users\ThomasMacheychuk\Desktop\Power BI\Deblistering updates\MedContainers-2022-10-09.json";
-        private const string CanistersFilePath = @"C:\Users\ThomasMacheychuk\Desktop\Power BI\Deblistering updates\Canisters-Status-2022-10-09.json";
+        private const string MedicinesFilePath = @"C:\Users\ThomasMacheychuk\Desktop\Power BI\Deblistering updates\Medicines-2022-10-14.json";
+        private const string MedContainersFilePath = @"C:\Users\ThomasMacheychuk\Desktop\Power BI\Deblistering updates\MedContainers-2022-10-14.json";
+        private const string CanistersFilePath = @"C:\Users\ThomasMacheychuk\Desktop\Power BI\Deblistering updates\Canisters-Status-2022-10-14.json";
 
         private string identifier; // AMP/VMP/Rowa Drug Code
         public string Identifier { get { return identifier; } set { identifier = value; } }
@@ -389,13 +389,13 @@ namespace DeblisteringJobs
                 using (StreamWriter sw = new StreamWriter(fs))
                 {
 
-                    sw.WriteLine("Drug name, Pills in pots, Pills in canisters, Total pills, 1-day usage, 56-day usage," +
-                        " Quantity to deblister, Has canister?");
+                    sw.WriteLine("MedName, Quantity to deblister, Status (TO DO/WIP/DONE), 1 day usage, Pills in pots, " +
+                        "Pills in canisters, Total pills, Has canister?");
 
                     foreach (Medicine job in deblisteringJobs1)
                     {
-                        sw.WriteLine(job.DrugName.Replace(",", ".") + "," + job.PillsInPots + "," + job.PillsInCanisters + "," +
-                            job.TotalPills + "," + job.Usage1 + "," + job.Usage + "," + (int)job.Usage / 2 + "," + job.HasCanister);
+                        sw.WriteLine(job.DrugName.Replace(",", ".") + "," + (int)job.Usage / 2 + "," + "," + (int)job.Usage1 + "," + job.PillsInPots +
+                            "," + job.PillsInCanisters + "," + job.TotalPills + "," + job.HasCanister);
                     }
                 }
             }
@@ -405,13 +405,13 @@ namespace DeblisteringJobs
                 using (StreamWriter sw = new StreamWriter(fs))
                 {
 
-                    sw.WriteLine("Drug name, Pills in pots, Pills in canisters, Total pills, 1-day usage, 56-day usage," +
-                        " Quantity to deblister, Has canister?");
+                    sw.WriteLine("MedName, Quantity to deblister, Status (TO DO/WIP/DONE), 1 day usage, Pills in pots, " +
+                        "Pills in canisters, Total pills, Has canister?");
 
                     foreach (Medicine job in deblisteringJobs7)
                     {
-                        sw.WriteLine(job.DrugName.Replace(",", ".") + "," + job.PillsInPots + "," + job.PillsInCanisters + "," +
-                            job.TotalPills + "," + job.Usage1 + "," + job.Usage + "," + (int)job.Usage / 2 + "," + job.HasCanister);
+                        sw.WriteLine(job.DrugName.Replace(",", ".") + "," + (int)job.Usage / 2 + "," + "," + (int)job.Usage1 + "," + job.PillsInPots +
+                            "," + job.PillsInCanisters + "," + job.TotalPills + "," + job.HasCanister);
                     }
                 }
             }
@@ -421,13 +421,13 @@ namespace DeblisteringJobs
                 using (StreamWriter sw = new StreamWriter(fs))
                 {
 
-                    sw.WriteLine("Drug name, Pills in pots, Pills in canisters, Total pills, 1-day usage, 56-day usage," +
-                        " Quantity to deblister, Has canister?");
+                    sw.WriteLine("MedName, Quantity to deblister, Status (TO DO/WIP/DONE), 1 day usage, Pills in pots, " +
+                        "Pills in canisters, Total pills, Has canister?");
 
                     foreach (Medicine job in deblisteringJobs14)
                     {
-                        sw.WriteLine(job.DrugName.Replace(",", ".") + "," + job.PillsInPots + "," + job.PillsInCanisters + "," +
-                            job.TotalPills + "," + job.Usage1 + "," + job.Usage + "," + (int)job.Usage / 2 + "," + job.HasCanister);
+                        sw.WriteLine(job.DrugName.Replace(",", ".") + "," + (int)job.Usage / 2 + "," + "," + (int)job.Usage1 + "," + job.PillsInPots +
+                            "," + job.PillsInCanisters + "," + job.TotalPills + "," + job.HasCanister);
                     }
                 }
             }
